@@ -31,7 +31,7 @@ In 2022 I rewrote it again to improve it and solve some problems. I used the new
 ## Installation
 
 Install this tool using Unity Package Manager:
-https://github.com/artnas/Unity-Plane-Mesh-Splitter.git
+https://github.com/Danil0v3s/Unity-Plane-Mesh-Splitter.git
 
 ![image](https://user-images.githubusercontent.com/14143603/194191506-c25bcf37-284c-471f-8097-7e6049f7ed31.png)
 
